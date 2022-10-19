@@ -1,0 +1,20 @@
+html {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+h1 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(23, 26, 209);
+    border: 2px solid lightskyblue;
+}
+
+p {
+    color: rgb(29, 151, 233)
+}
